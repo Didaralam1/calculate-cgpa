@@ -4,7 +4,7 @@
 
 
 body {
-    background-image: url("../images/bgimg1.jpg");
+    background-image: url("../project/images/bgimg1.jpg");
     background-repeat: no-repeat;
     background-size: 1540px 830px;
     margin: 0;
@@ -35,7 +35,7 @@ a{
     text-align: center;
     font-size: 20px;
     border: none;
-    border-radius: 5px;
+    border-radius: 30px;
     margin-top: 20px;
     margin-left: 50px;
     margin-bottom: 40px;
@@ -50,7 +50,7 @@ a{
     text-align: center;
     font-size: 20px;
     border: none;
-    border-radius: 5px;
+    border-radius: 30px;
     margin-top: 20px;
     margin-bottom: 40px;
     margin-right: 50px;
@@ -92,7 +92,7 @@ a{
 .btn1 {
     font-size: 21px;
     border: none;
-    border-radius: 5px;
+    border-radius: 30px;
     margin-top: 20px;
     margin-bottom: 40px;
     margin-right: 100px;
@@ -105,7 +105,7 @@ a{
 .btn2{
     font-size: 21px;
     border: none;
-    border-radius: 5px;
+    border-radius: 30px;
     margin-top: 20px;
     margin-bottom: 40px;
     margin-right: 50px;
